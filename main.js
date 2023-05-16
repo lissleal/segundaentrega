@@ -146,9 +146,10 @@ function salir() {
     alert("Hasta luego que tenga buenas compras.");
 }
 
+
 //Ejecuto el programa
 
-alert("Bienvenido a tu lista de Compras")
+alert("Bienvenido a tu lista de Compras");
 
 do {
     opcion = menu();
